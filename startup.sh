@@ -31,6 +31,7 @@ inject OPENSHOCK_NAME $OPENSHOCK_NAME
 inject OPENSHOCK_URL $OPENSHOCK_URL
 inject OPENSHOCK_API_URL $OPENSHOCK_API_URL
 inject OPENSHOCK_SHARE_URL $OPENSHOCK_SHARE_URL
+inject OPENSHOCK_DEV $OPENSHOCK_DEV
 
 # Start nginx as normal.
 # If something breaks, see: https://github.com/nginxinc/docker-nginx/blob/master/mainline/debian/Dockerfile
