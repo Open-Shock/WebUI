@@ -31,7 +31,7 @@
     "normalize.css": "^8.0.1",
     "relative-time-vue-component": "^5.0.2",
     "toastr": "^2.1.4",
-    "vue": "^3.4.15",
+    "vue": "^3.5.13",
     "vue-cropperjs": "^5.0.0",
     "vue-router": "^4.2.5",
     "vue-slider-component": "^3.2.24",
