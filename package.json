@@ -33,7 +33,7 @@
     "toastr": "^2.1.4",
     "vue": "^3.4.15",
     "vue-cropperjs": "^5.0.0",
-    "vue-router": "^4.2.5",
+    "vue-router": "^4.5.0",
     "vue-slider-component": "^3.2.24",
     "vue-sweetalert2": "^5.0.5",
     "vue-three-round-slider": "^1.2.7",
