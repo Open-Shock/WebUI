@@ -22,7 +22,7 @@
     "animate.css": "^4.1.1",
     "axios": "^1.6.0",
     "bootstrap-vue-next": "^0.14.10",
-    "copy-webpack-plugin": "^11.0.0",
+    "copy-webpack-plugin": "^13.0.0",
     "core-js": "^3.33.1",
     "esp-web-tools": "^9.4.0",
     "jquery": "^3.7.1",
